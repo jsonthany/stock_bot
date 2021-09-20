@@ -12,3 +12,8 @@ Telegram bot that asynchronously manages custom alerts and notifications on spec
 
 **To Add In The Future:**
 - Database to store the data pulled from the API
+
+**To-Do:**
+- Create backend functionality to store data based on user id using PostgreSQL
+- Daily updates of news based on latest updates
+- Daily market open and market close information
