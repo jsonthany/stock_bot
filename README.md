@@ -1,5 +1,5 @@
 # stock_bot
-Telegram bot that asynchronously manages custom alerts and notifications on specified stocks.
+Telegram bot that manages custom alerts and notifications on specified stocks.
 
 **Try it out!**
 1. Add stock_al_bot on Telegram
